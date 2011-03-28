@@ -276,6 +276,7 @@
 				F1C3555D1341045F0068468F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
